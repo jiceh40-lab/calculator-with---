@@ -49,7 +49,7 @@ int main() {
 }
 	else if (operacija == "-") {
 
-		rezultat = PRVOSTEVILO + drugost;
+		rezultat = PRVOSTEVILO - drugost;
 
 	}
 	else if (operacija == "/") {
